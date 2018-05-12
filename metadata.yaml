@@ -1,0 +1,37 @@
+_repo: Life-and-Adventures-of-Billy-Dixonthe-Early-Southwest_45075
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Barde, Frederick S.
+    alias: Barde, Frederick Samuel
+    gutenberg_agent_id: '43072'
+    url: http://www.gutenberg.org/2009/agents/43072
+covers:
+- cover_type: archival
+  image_path: 45075-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dixon, Billy
+    alias: Dixon, William
+    birthdate: 1850
+    deathdate: 1913
+    gutenberg_agent_id: '43071'
+    url: http://www.gutenberg.org/2009/agents/43071
+description: ''
+gutenberg_issued: '2014-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45075'
+  lccn: '14007898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'Frontier and pioneer life -- Texas'
+- !lcsh 'Indians of North America -- Wars -- 1866-1895'
+- !lcc 'F590.3'
+title: "Life and Adventures of \"Billy\" Dixon\r\nA Narrative in which is Described\
+  \ many things Relating to the Early Southwest"
+url: http://www.gutenberg.org/ebooks/45075
