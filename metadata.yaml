@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '43071'
     url: http://www.gutenberg.org/2009/agents/43071
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45075#Life-and-Adventures-of-Billy-Dixonthe-Early-Southwest
 gutenberg_issued: '2014-03-08'
 gutenberg_type: Text
 identifiers:
